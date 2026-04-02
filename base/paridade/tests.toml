@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+4
+'''
+output = '''
+4 é par
+'''
+
+[[tests]]
+input = '''
+7
+'''
+output = '''
+7 é ímpar
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+0 é par
+'''
+
+[[tests]]
+input = '''
+-2
+'''
+output = '''
+-2 é par
+'''
+
+[[tests]]
+input = '''
+13
+'''
+output = '''
+13 é ímpar
+'''

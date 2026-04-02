@@ -1,0 +1,40 @@
+[[tests]]
+input = '''
+1.0 -5.0 6.0
+'''
+output = '''
+3.000000 2.000000
+'''
+
+[[tests]]
+input = '''
+1.0 -2.0 1.0
+'''
+output = '''
+1.000000
+Raiz unica.
+'''
+
+[[tests]]
+input = '''
+1.0 1.0 1.0
+'''
+output = '''
+Nao existe raiz.
+'''
+
+[[tests]]
+input = '''
+0.0 5.0 3.0
+'''
+output = '''
+Nao eh equacao de segundo grau
+'''
+
+[[tests]]
+input = '''
+2.0 -8.0 6.0
+'''
+output = '''
+3.000000 1.000000
+'''

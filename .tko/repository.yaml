@@ -7,8 +7,7 @@ sources:
   writeable: true
   quests: null
   tasks: null
-expanded:
-- sandbox@basic
+expanded: []
 flags:
   inbox: all
   panel: help

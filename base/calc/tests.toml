@@ -1,0 +1,73 @@
+[[tests]]
+input = '''
+1
+5 3
+'''
+output = '''
+Escolha o número referente a operação que deseja utilizar:
+1. +
+2. -
+3. *
+4. /
+Digite dois valores:
+Soma = 8.000000
+'''
+
+[[tests]]
+input = '''
+2
+10 4
+'''
+output = '''
+Escolha o número referente a operação que deseja utilizar:
+1. +
+2. -
+3. *
+4. /
+Digite dois valores:
+Subtração = 6.000000
+'''
+
+[[tests]]
+input = '''
+3
+6 3
+'''
+output = '''
+Escolha o número referente a operação que deseja utilizar:
+1. +
+2. -
+3. *
+4. /
+Digite dois valores:
+Multiplicação = 18.000000
+'''
+
+[[tests]]
+input = '''
+4
+8 2
+'''
+output = '''
+Escolha o número referente a operação que deseja utilizar:
+1. +
+2. -
+3. *
+4. /
+Digite dois valores:
+Divisão = 4.000000
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+Escolha o número referente a operação que deseja utilizar:
+1. +
+2. -
+3. *
+4. /
+Digite dois valores:
+Divisão = -nan
+'''

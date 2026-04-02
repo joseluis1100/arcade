@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+150.0
+'''
+output = '''
+Caro
+'''
+
+[[tests]]
+input = '''
+80.0
+'''
+output = '''
+Normal
+'''
+
+[[tests]]
+input = '''
+30.0
+'''
+output = '''
+Barato
+'''
+
+[[tests]]
+input = '''
+200.0
+'''
+output = '''
+Muito caro
+'''
+
+[[tests]]
+input = '''
+50.0
+'''
+output = '''
+Barato
+'''

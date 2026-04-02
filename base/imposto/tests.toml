@@ -1,0 +1,43 @@
+[[tests]]
+input = '''
+1
+100.0
+'''
+output = '''
+107.00
+'''
+
+[[tests]]
+input = '''
+2
+100.0
+'''
+output = '''
+112.00
+'''
+
+[[tests]]
+input = '''
+3
+100.0
+'''
+output = '''
+115.00
+'''
+
+[[tests]]
+input = '''
+4
+100.0
+'''
+output = '''
+108.00
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+Erro: valor invalido.
+'''

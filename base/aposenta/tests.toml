@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+65 20
+'''
+output = '''
+Pode se aposentar
+'''
+
+[[tests]]
+input = '''
+50 30
+'''
+output = '''
+Pode se aposentar
+'''
+
+[[tests]]
+input = '''
+60 25
+'''
+output = '''
+Pode se aposentar
+'''
+
+[[tests]]
+input = '''
+30 10
+'''
+output = '''
+Nao pode se aposentar
+'''
+
+[[tests]]
+input = '''
+55 29
+'''
+output = '''
+Nao pode se aposentar
+'''

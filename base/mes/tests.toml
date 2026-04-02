@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+1
+'''
+output = '''
+janeiro
+'''
+
+[[tests]]
+input = '''
+2
+'''
+output = '''
+fevereiro
+'''
+
+[[tests]]
+input = '''
+3
+'''
+output = '''
+março
+'''
+
+[[tests]]
+input = '''
+7
+'''
+output = '''
+julho
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+Mes invalido
+'''

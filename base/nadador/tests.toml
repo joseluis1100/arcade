@@ -1,0 +1,47 @@
+[[tests]]
+input = '''
+20
+'''
+output = '''
+Senior
+'''
+
+[[tests]]
+input = '''
+15
+'''
+output = '''
+Juvenil B
+'''
+
+[[tests]]
+input = '''
+12
+'''
+output = '''
+Juvenil A
+'''
+
+[[tests]]
+input = '''
+9
+'''
+output = '''
+Infantil B
+'''
+
+[[tests]]
+input = '''
+6
+'''
+output = '''
+Infantil A
+'''
+
+[[tests]]
+input = '''
+3
+'''
+output = '''
+Muito novo
+'''

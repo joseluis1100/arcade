@@ -1,0 +1,47 @@
+[[tests]]
+input = '''
+1.8 95.0
+'''
+output = '''
+I
+'''
+
+[[tests]]
+input = '''
+1.5 50.0
+'''
+output = '''
+B
+'''
+
+[[tests]]
+input = '''
+1.0 100.0
+'''
+output = '''
+G
+'''
+
+[[tests]]
+input = '''
+1.8 70.0
+'''
+output = '''
+F
+'''
+
+[[tests]]
+input = '''
+1.5 80.0
+'''
+output = '''
+E
+'''
+
+[[tests]]
+input = '''
+1.0 30.0
+'''
+output = '''
+A
+'''

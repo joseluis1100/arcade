@@ -92,7 +92,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 - [ ] `@nadador :3:main:auto:edit:part`[27 - nadador](base/nadador/README.md)
 - [ ] `@medias :3:main:auto:edit:part`[28 - medias](base/medias/README.md)
 - [ ] `@quiz :3:main:user:view:free`[29 - quiz](base/quiz/README.md)
-- [ ] `@crescente :3:main:user:view:free`[30 - crescente](base/crescente/README.md)
+- [ ] `@crescente :3:main:user:edit:free`[30 - crescente](base/crescente/README.md)
 - [ ] `@tabela :3:main:user:view:free`[31 - tabela](base/tabela/README.md)
 - [ ] `@lanchonete :3:main:user:view:free`[32 - lanchonete](base/lanchonete/README.md)
 - [ ] `@aumento :3:main:user:view:free`[33 - aumento](base/aumento/README.md)

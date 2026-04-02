@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+8.0 9.0 7.0
+'''
+output = '''
+Aprovado
+'''
+
+[[tests]]
+input = '''
+3.0 4.0 2.0
+'''
+output = '''
+Reprovado
+'''
+
+[[tests]]
+input = '''
+5.0 6.0 4.0
+'''
+output = '''
+Recuperacao
+'''
+
+[[tests]]
+input = '''
+10.0 10.0 10.0
+'''
+output = '''
+Aprovado
+'''
+
+[[tests]]
+input = '''
+7.0 7.0 7.0
+'''
+output = '''
+Aprovado
+'''

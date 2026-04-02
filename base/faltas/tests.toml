@@ -1,0 +1,71 @@
+[[tests]]
+input = '''
+9.5 10
+'''
+output = '''
+A
+'''
+
+[[tests]]
+input = '''
+8.0 10
+'''
+output = '''
+B
+'''
+
+[[tests]]
+input = '''
+6.0 10
+'''
+output = '''
+C
+'''
+
+[[tests]]
+input = '''
+4.5 10
+'''
+output = '''
+D
+'''
+
+[[tests]]
+input = '''
+3.0 10
+'''
+output = '''
+E
+'''
+
+[[tests]]
+input = '''
+9.5 25
+'''
+output = '''
+B
+'''
+
+[[tests]]
+input = '''
+8.0 25
+'''
+output = '''
+C
+'''
+
+[[tests]]
+input = '''
+6.0 25
+'''
+output = '''
+D
+'''
+
+[[tests]]
+input = '''
+3.0 25
+'''
+output = '''
+E
+'''

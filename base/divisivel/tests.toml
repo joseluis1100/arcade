@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+15
+'''
+output = '''
+Inválido: número divisível por 3 e 5
+'''
+
+[[tests]]
+input = '''
+9
+'''
+output = '''
+9 é divisivel por 3 ou 5
+'''
+
+[[tests]]
+input = '''
+10
+'''
+output = '''
+10 é divisivel por 3 ou 5
+'''
+
+[[tests]]
+input = '''
+6
+'''
+output = '''
+6 é divisivel por 3 ou 5
+'''
+
+[[tests]]
+input = '''
+30
+'''
+output = '''
+Inválido: número divisível por 3 e 5
+'''

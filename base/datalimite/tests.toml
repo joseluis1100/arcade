@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+15/06/2024
+'''
+output = '''
+Data valida.
+'''
+
+[[tests]]
+input = '''
+31/04/2024
+'''
+output = '''
+Data invalida.
+'''
+
+[[tests]]
+input = '''
+29/02/2024
+'''
+output = '''
+Data valida.
+'''
+
+[[tests]]
+input = '''
+29/02/2023
+'''
+output = '''
+Data invalida.
+'''
+
+[[tests]]
+input = '''
+15/06/2030
+'''
+output = '''
+Data invalida.
+'''

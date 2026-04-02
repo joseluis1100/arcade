@@ -6,3 +6,18 @@
 2026-04-02 11:29:20, MOVE, v:1, k:sandbox@acres, mode:BACK
 2026-04-02 13:52:04, MOVE, v:1, k:sandbox@inteiro, mode:PICK
 2026-04-02 13:52:41, MOVE, v:1, k:sandbox@inteiro, mode:BACK
+2026-04-02 14:10:44, MOVE, v:1, k:sandbox@inteiro, mode:PICK
+2026-04-02 14:10:48, MOVE, v:1, k:sandbox@inteiro, mode:BACK
+2026-04-02 14:11:06, MOVE, v:1, k:sandbox@inteiro, mode:PICK
+2026-04-02 14:11:27, MOVE, v:1, k:sandbox@inteiro, mode:BACK
+2026-04-02 14:11:49, MOVE, v:1, k:sandbox@inteiro, mode:PICK
+2026-04-02 14:11:52, EXEC, v:1, k:sandbox@inteiro, mode:FULL, rate:100, size:13
+2026-04-02 14:11:59, MOVE, v:1, k:sandbox@inteiro, mode:BACK
+2026-04-02 14:12:24, MOVE, v:1, k:sandbox@real, mode:PICK
+2026-04-02 14:12:26, EXEC, v:1, k:sandbox@real, mode:FULL, rate:0, size:6
+2026-04-02 14:12:28, MOVE, v:1, k:sandbox@real, mode:BACK
+2026-04-02 14:12:46, MOVE, v:1, k:sandbox@ponto, mode:PICK
+2026-04-02 14:12:48, EXEC, v:1, k:sandbox@ponto, mode:FULL, rate:0, size:6
+2026-04-02 14:12:52, MOVE, v:1, k:sandbox@ponto, mode:BACK
+2026-04-02 14:16:53, MOVE, v:1, k:sandbox@crescente, mode:PICK
+2026-04-02 14:17:14, MOVE, v:1, k:sandbox@crescente, mode:BACK
