@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+1 2 3
+======== EXPECT
+6
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+10 20 30
+======== EXPECT
+60
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+0 0 0
+======== EXPECT
+0
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+-5 10 -3
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+100 200 300
+======== EXPECT
+600
+<<<<<<<< FINISH

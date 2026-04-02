@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+10 20 30
+======== EXPECT
+20
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+30 20 10
+======== EXPECT
+30
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+20 30 10
+======== EXPECT
+30
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+5 5 5
+======== EXPECT
+Numeros iguais
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+-1 0 1
+======== EXPECT
+0
+<<<<<<<< FINISH

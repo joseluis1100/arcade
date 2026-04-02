@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+2000
+======== EXPECT
+Eh bissexto
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+1900
+======== EXPECT
+Nao eh bissexto
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+2024
+======== EXPECT
+Eh bissexto
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+2023
+======== EXPECT
+Nao eh bissexto
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+1996
+======== EXPECT
+Eh bissexto
+<<<<<<<< FINISH

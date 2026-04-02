@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+15/06/2024
+======== EXPECT
+Data valida.
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+31/04/2024
+======== EXPECT
+Data invalida.
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+29/02/2024
+======== EXPECT
+Data valida.
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+29/02/2023
+======== EXPECT
+Data invalida.
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+00/05/2024
+======== EXPECT
+Data invalida.
+<<<<<<<< FINISH

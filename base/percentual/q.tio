@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+1000.0 10
+======== EXPECT
+Emprestimo concedido
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+2000.0 5
+======== EXPECT
+Emprestimo concedido
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+500.0 20
+======== EXPECT
+Emprestimo concedido
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+3000.0 0
+======== EXPECT
+Emprestimo concedido
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+1500.0 15
+======== EXPECT
+Emprestimo concedido
+<<<<<<<< FINISH

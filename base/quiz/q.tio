@@ -1,0 +1,15 @@
+>>>>>>>> INSERT
+10
+20
+30
+40
+50
+
+======== EXPECT
+qual é a soma de 19 + 6? a resposta correta era 25
+qual é a soma de 93 + 17? a resposta correta era 110
+qual é a soma de 50 + 68? a resposta correta era 118
+qual é a soma de 80 + 89? a resposta correta era 169
+qual é a soma de 25 + 22? a resposta correta era 47
+Acertos: 0
+<<<<<<<< FINISH

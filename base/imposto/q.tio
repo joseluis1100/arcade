@@ -1,0 +1,33 @@
+>>>>>>>> INSERT
+1
+100.0
+======== EXPECT
+107.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+2
+100.0
+======== EXPECT
+112.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+3
+100.0
+======== EXPECT
+115.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+4
+100.0
+======== EXPECT
+108.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+5
+======== EXPECT
+Erro: valor invalido.
+<<<<<<<< FINISH

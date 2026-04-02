@@ -1,0 +1,53 @@
+>>>>>>>> INSERT
+9.5 10
+======== EXPECT
+A
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+8.0 10
+======== EXPECT
+B
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+6.0 10
+======== EXPECT
+C
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+4.5 10
+======== EXPECT
+D
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+3.0 10
+======== EXPECT
+E
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+9.5 25
+======== EXPECT
+B
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+8.0 25
+======== EXPECT
+C
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+6.0 25
+======== EXPECT
+D
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+3.0 25
+======== EXPECT
+E
+<<<<<<<< FINISH

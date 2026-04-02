@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+25
+======== EXPECT
+5.000000
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+0
+======== EXPECT
+0.000000
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+-4
+======== EXPECT
+Número -4.000000 é inválido
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+2
+======== EXPECT
+1.414214
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+100
+======== EXPECT
+10.000000
+<<<<<<<< FINISH

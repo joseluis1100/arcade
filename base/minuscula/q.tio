@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+A
+======== EXPECT
+a
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+Z
+======== EXPECT
+z
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+B
+======== EXPECT
+b
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+M
+======== EXPECT
+m
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+X
+======== EXPECT
+x
+<<<<<<<< FINISH

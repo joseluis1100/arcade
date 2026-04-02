@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+15
+======== EXPECT
+Inválido: número divisível por 3 e 5
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+9
+======== EXPECT
+9 é divisivel por 3 ou 5
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+10
+======== EXPECT
+10 é divisivel por 3 ou 5
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+6
+======== EXPECT
+6 é divisivel por 3 ou 5
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+30
+======== EXPECT
+Inválido: número divisível por 3 e 5
+<<<<<<<< FINISH

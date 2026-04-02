@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+10
+======== EXPECT
+276.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+0
+======== EXPECT
+0.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+5
+======== EXPECT
+138.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+1
+======== EXPECT
+27.60
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+100
+======== EXPECT
+2760.00
+<<<<<<<< FINISH
