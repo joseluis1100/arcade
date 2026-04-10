@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+10 20 30
+'''
+output = '''
+20
+'''
+
+[[tests]]
+input = '''
+30 20 10
+'''
+output = '''
+30
+'''
+
+[[tests]]
+input = '''
+20 30 10
+'''
+output = '''
+30
+'''
+
+[[tests]]
+input = '''
+5 5 5
+'''
+output = '''
+Numeros iguais
+'''
+
+[[tests]]
+input = '''
+-1 0 1
+'''
+output = '''
+0
+'''

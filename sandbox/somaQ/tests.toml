@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+1 2 3
+'''
+output = '''
+14
+'''
+
+[[tests]]
+input = '''
+0 0 0
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+3 4 5
+'''
+output = '''
+50
+'''
+
+[[tests]]
+input = '''
+-1 2 -3
+'''
+output = '''
+14
+'''
+
+[[tests]]
+input = '''
+10 10 10
+'''
+output = '''
+300
+'''

@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+A
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+Z
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+B
+'''
+output = '''
+b
+'''
+
+[[tests]]
+input = '''
+M
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+X
+'''
+output = '''
+x
+'''

@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+123
+'''
+output = '''
+321
+'''
+
+[[tests]]
+input = '''
+456
+'''
+output = '''
+654
+'''
+
+[[tests]]
+input = '''
+100
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+999
+'''
+output = '''
+999
+'''
+
+[[tests]]
+input = '''
+501
+'''
+output = '''
+105
+'''

@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+1
+'''
+output = '''
+Domingo
+'''
+
+[[tests]]
+input = '''
+2
+'''
+output = '''
+Segunda
+'''
+
+[[tests]]
+input = '''
+3
+'''
+output = '''
+Terca
+'''
+
+[[tests]]
+input = '''
+4
+'''
+output = '''
+Quarta
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+Quinta
+'''

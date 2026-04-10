@@ -5,13 +5,16 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Variáveis e Expressões +basic @basic
 
-- [ ]`@+basico        :1:main` 00- [Variáveis e Expressões](base/+basic/README.md)
+- [ ]`@+basic         :1:main` 00 - [Variáveis e Expressões](base/+basic/README.md)
 - [ ]`@inteiro        :1:main` 01 - [Número inteiro](base/inteiro/README.md)
-- [ ]`@real           :1:side` 02 - [Número real](base/real/README.md)
 - [ ]`@tres           :1:main` 03 - [Três valores inteiros](base/tres/README.md)
-- [ ]`@quadrado       :1:side` 04 - [Número real](base/quadrado/README.md)
 - [ ]`@quinta         :1:main` 05 - [Numero real](base/quinta/README.md)
 - [ ]`@celsius        :2:main` 06 - [Temperatura em graus Celsius](base/celsius/README.md)
+- [ ]`@circulo        :3:main` 34 - [Valor do raio de um](base/circulo/README.md)
+- [ ]`@cilindro       :3:main` 36 - [Altura e o raio de](base/cilindro/README.md)
+- [ ]`@poupanca       :3:main` 39 - [Importância de R$ 780.000,00 será](base/poupanca/README.md)
+- [ ]`@real           :1:side` 02 - [Número real](base/real/README.md)
+- [ ]`@quadrado       :1:side` 04 - [Número real](base/quadrado/README.md)
 - [ ]`@fahrenheit     :2:side` 07 - [Temperatura em graus Fahrenheit](base/fahrenheit/README.md)
 - [ ]`@kelvin         :2:side` 08 - [Temperatura em graus Kelvin](base/kelvin/README.md)
 - [ ]`@kelvinconv     :2:side` 09 - [Temperatura em graus Celsius](base/kelvinconv/README.md)
@@ -39,12 +42,9 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 - [ ]`@vizinhos       :3:side` 31 - [Numero inteiro](base/vizinhos/README.md)
 - [ ]`@triplo         :3:side` 32 - [Número inteiro](base/triplo/README.md)
 - [ ]`@ladoquad       :3:side` 33 - [Tamanho do lado de um](base/ladoquad/README.md)
-- [ ]`@circulo        :3:main` 34 - [Valor do raio de um](base/circulo/README.md)
 - [ ]`@hipotenusa     :3:side` 35 - [Sejam a e b os](base/hipotenusa/README.md)
-- [ ]`@cilindro       :3:main` 36 - [Altura e o raio de](base/cilindro/README.md)
 - [ ]`@desconto       :3:side` 37 - [Valor de um produto](base/desconto/README.md)
 - [ ]`@reajuste       :3:side` 38 - [Salário de um funcionário. Calcule](base/reajuste/README.md)
-- [ ]`@poupanca       :3:main` 39 - [Importância de R$ 780.000,00 será](base/poupanca/README.md)
 - [ ]`@encanador      :3:side` 40 - [Empresa contrata um encanador a](base/encanador/README.md)
 - [ ]`@horasalario    :3:side` 41 - [Valor da hora de trabalho](base/horasalario/README.md)
 - [ ]`@liquido        :3:side` 42 - [Salário-base de um funcionário. Calcule](base/liquido/README.md)
@@ -62,7 +62,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Comandos Condicionais +if_else @if_else !@basic
 
-- [ ]`@+basico        :1:main` 00 - [Comandos Condicionais e Controle de Fluxo](base/+if_else/README.md)
+- [ ]`@+if_else       :1:main` 00 - [Comandos Condicionais e Controle de Fluxo](base/+if_else/README.md)
 - [ ]`@maior          :1:main` 01 - [Dois numeros](base/maior/README.md)
 - [ ]`@raiz           :1:side` 02 - [Numero fornecido pelo usuário. Se](base/raiz/README.md)
 - [ ]`@raizval        :1:side` 03 - [Numero real. Se o numero](base/raizval/README.md)
@@ -107,7 +107,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Comandos de Repetição +for @for !@if_else
 
-- [ ]`@+basico        :1:main` 00 - [Comandos de Repetição e Iterações](base/+for/README.md)
+- [ ]`@+for           :1:main` 00 - [Comandos de Repetição e Iterações](base/+for/README.md)
 - [ ]`@multiplos      :1:main` 01 - [Faça um programa que determine](base/multiplos/README.md)
 - [ ]`@somatorio      :1:side` 02 - [Escreva na tela, de 1](base/somatorio/README.md)
 - [ ]`@tabuada        :1:side` 03 - [Faça um algoritmo utilizando o](base/tabuada/README.md)
@@ -173,7 +173,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Vetores e Matrizes +arrays @arrays !@for
 
-- [ ]`@+basico        :1:main` 00 - [Arrays (Vetores e Matrizes)](base/+arrays/README.md)
+- [ ]`@+arrays        :1:main` 00 - [Arrays (Vetores e Matrizes)](base/+arrays/README.md)
 - [ ]`@matriz         :1:side` 01 - [Matriz 4 x 4, conte](base/matriz/README.md)
 - [ ]`@vetorsoma      :1:side` 02 - [Declare uma matriz 5 x](base/vetorsoma/README.md)
 - [ ]`@preenche       :3:side` 03 - [Faça um programa que preenche](base/preenche/README.md)
@@ -216,7 +216,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Strings +strings @strings !@arrays
 
-- [ ]`@+basico        :1:main` 00 - [Arrays de Caracteres (Strings)](base/+strings/README.md)
+- [ ]`@+strings       :1:main` 00 - [Arrays de Caracteres (Strings)](base/+strings/README.md)
 - [ ]`@compara        :1:side` 01 - [Faça um programa que então](base/compara/README.md)
 - [ ]`@copia          :1:side` 02 - [Calcula o comprimento de uma](base/copia/README.md)
 - [ ]`@maiusculas     :1:side` 03 - [Entre com um nome](base/maiusculas/README.md)
@@ -254,7 +254,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Structs +structs @structs !@strings
 
-- [ ]`@+basico        :1:main` 00 - [Estruturas Declaradas pelo Programador (Structs)](base/+structs/README.md)
+- [ ]`@+structs       :1:main` 00 - [Estruturas Declaradas pelo Programador (Structs)](base/+structs/README.md)
 - [ ]`@horario        :1:side` 01 - [Escreva um trecho de código](base/horario/README.md)
 - [ ]`@idadest        :1:side` 02 - [Implemente um programa que leia](base/idadest/README.md)
 - [ ]`@ponto          :1:side` 03 - [Construa uma estrutura aluno](base/ponto/README.md)
@@ -282,7 +282,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Funções +functions @functions !@structs
 
-- [ ]`@+basico        :1:main` 00 - [Construção de Funções e Recursos de Escopo](base/+functions/README.md)
+- [ ]`@+functions     :1:main` 00 - [Construção de Funções e Recursos de Escopo](base/+functions/README.md)
 - [ ]`@dobro          :1:side` 01 - [Crie uma função que recebe](base/dobro/README.md)
 - [ ]`@dataext        :1:side` 02 - [Faça uma função que receba](base/dataext/README.md)
 - [ ]`@positivo       :1:side` 03 - [Faça uma função](base/positivo/README.md)
@@ -359,7 +359,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Recursão +recursion @recursion !@functions
 
-- [ ]`@+basico        :1:main` 00 - [Recursividade](base/+recursion/README.md)
+- [ ]`@+recursion     :1:main` 00 - [Recursividade](base/+recursion/README.md)
 - [ ]`@rfatorial      :1:side` 01 - [Crie uma função recursiva que](base/rfatorial/README.md)
 - [ ]`@rpotencia      :1:side` 02 - [Faça uma função recursiva que](base/rpotencia/README.md)
 - [ ]`@rfibonacci     :1:side` 03 - [Escreva uma função recursiva que](base/rfibonacci/README.md)
@@ -400,7 +400,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Ponteiros +pointers @pointers !@recursion
 
-- [ ]`@+basico        :1:main` 00 - [Introdução aos Ponteiros](base/+pointers/README.md)
+- [ ]`@+pointers      :1:main` 00 - [Introdução aos Ponteiros](base/+pointers/README.md)
 - [ ]`@ponteiro       :1:side` 01 - [Declare um inteiro, um real](base/ponteiro/README.md)
 - [ ]`@pmaior         :1:side` 02 - [Contenha duas variáveis inteiras. Compare](base/pmaior/README.md)
 - [ ]`@pmaximo        :1:side` 03 - [Contenha duas variáveis inteiras. Leia](base/pmaximo/README.md)
@@ -430,7 +430,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Alocação Dinâmica +dynamic_mem @dynamic_mem !@pointers
 
-- [ ]`@+basico        :1:main` 00 - [O Poder da Alocação Dinâmica](base/+dynamic/README.md)
+- [ ]`@+dynamic       :1:main` 00 - [O Poder da Alocação Dinâmica](base/+dynamic/README.md)
 - [ ]`@malloc         :1:side` 01 - [Crie um programa que](base/malloc/README.md)
 - [ ]`@alocvet        :1:side` 02 - [Faça um programa que leia](base/alocvet/README.md)
 - [ ]`@alocmedia      :1:side` 03 - [Faça um programa que leia](base/alocmedia/README.md)
@@ -455,7 +455,7 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## Arquivos +files @files !@dynamic_mem
 
-- [ ]`@+basico        :1:main` 00 - [Arquivos e Persistência de Dados](base/+files/README.md)
+- [ ]`@+files         :1:main` 00 - [Arquivos e Persistência de Dados](base/+files/README.md)
 - [ ]`@escreve        :1:side` 01 - [Escreva um programa que](base/escreve/README.md)
 - [ ]`@exibe          :2:side` 02 - [Faça um programa que receba](base/exibe/README.md)
 - [ ]`@linhasarq      :3:side` 03 - [Faça um programa que receba](base/linhasarq/README.md)
@@ -488,4 +488,4 @@ Descrição do marcadores [LINK](https://github.com/senapk/tko/blob/master/wiki/
 
 ## sandbox
 
-
+- [ ]`@user_001       `  [Digite o título da tarefa aqui](sandbox/user_001/README.md)

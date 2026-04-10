@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+100.0 20.0
+'''
+output = '''
+Venda o carro!
+'''
+
+[[tests]]
+input = '''
+100.0 8.0
+'''
+output = '''
+Economico!
+'''
+
+[[tests]]
+input = '''
+100.0 5.0
+'''
+output = '''
+Super economico!
+'''
+
+[[tests]]
+input = '''
+500.0 40.0
+'''
+output = '''
+Economico!
+'''
+
+[[tests]]
+input = '''
+200.0 15.0
+'''
+output = '''
+Economico!
+'''

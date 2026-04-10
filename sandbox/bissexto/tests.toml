@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+2000
+'''
+output = '''
+Eh bissexto
+'''
+
+[[tests]]
+input = '''
+1900
+'''
+output = '''
+Nao eh bissexto
+'''
+
+[[tests]]
+input = '''
+2024
+'''
+output = '''
+Eh bissexto
+'''
+
+[[tests]]
+input = '''
+2023
+'''
+output = '''
+Nao eh bissexto
+'''
+
+[[tests]]
+input = '''
+1996
+'''
+output = '''
+Eh bissexto
+'''

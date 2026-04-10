@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+1000.0 10
+'''
+output = '''
+Emprestimo concedido
+'''
+
+[[tests]]
+input = '''
+2000.0 5
+'''
+output = '''
+Emprestimo concedido
+'''
+
+[[tests]]
+input = '''
+500.0 20
+'''
+output = '''
+Emprestimo concedido
+'''
+
+[[tests]]
+input = '''
+3000.0 0
+'''
+output = '''
+Emprestimo concedido
+'''
+
+[[tests]]
+input = '''
+1500.0 15
+'''
+output = '''
+Emprestimo concedido
+'''

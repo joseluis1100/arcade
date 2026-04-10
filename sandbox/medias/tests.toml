@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+2 3 4 a
+'''
+output = '''
+2.884499
+'''
+
+[[tests]]
+input = '''
+2 3 4 b
+'''
+output = '''
+3.333333
+'''
+
+[[tests]]
+input = '''
+2 3 4 c
+'''
+output = '''
+0.923077
+'''
+
+[[tests]]
+input = '''
+2 3 4 d
+'''
+output = '''
+3.000000
+'''
+
+[[tests]]
+input = '''
+2 3 4 e
+'''
+output = '''
+Erro: valor invalido.
+'''

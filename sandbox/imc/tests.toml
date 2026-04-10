@@ -1,0 +1,47 @@
+[[tests]]
+input = '''
+70.0 1.75
+'''
+output = '''
+Saudável
+'''
+
+[[tests]]
+input = '''
+50.0 1.70
+'''
+output = '''
+Abaixo do Peso
+'''
+
+[[tests]]
+input = '''
+100.0 1.70
+'''
+output = '''
+Obesidade Grau I
+'''
+
+[[tests]]
+input = '''
+120.0 1.60
+'''
+output = '''
+Obesidade Grau III(morbida)
+'''
+
+[[tests]]
+input = '''
+150.0 1.50
+'''
+output = '''
+Obesidade Grau III(morbida)
+'''
+
+[[tests]]
+input = '''
+80.0 1.80
+'''
+output = '''
+Saudável
+'''

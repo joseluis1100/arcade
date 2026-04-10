@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+5 3
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+3 8
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+7 7
+'''
+output = '''
+7
+'''
+
+[[tests]]
+input = '''
+-1 -5
+'''
+output = '''
+Numero invalido
+'''
+
+[[tests]]
+input = '''
+0 100
+'''
+output = '''
+Numero invalido
+'''

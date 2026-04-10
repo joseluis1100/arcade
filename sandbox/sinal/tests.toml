@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+10
+'''
+output = '''
+1.000000
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+Numero invalido
+'''
+
+[[tests]]
+input = '''
+-5
+'''
+output = '''
+Numero invalido
+'''
+
+[[tests]]
+input = '''
+100
+'''
+output = '''
+2.000000
+'''
+
+[[tests]]
+input = '''
+1
+'''
+output = '''
+0.000000
+'''

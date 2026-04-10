@@ -1,0 +1,24 @@
+# Utilizando uma estrutura, faça um
+
+Utilizando uma estrutura, faça um programa que permita a entrada de nome, endereço e telefone de 5 pessoas e os imprima em ordem alfabética.
+
+<details>
+  <summary>Resposta</summary>
+
+```c
+
+```
+
+</details>
+
+## Casos de Teste
+
+```
+>>>>>>>> INSERT
+
+======== EXPECT
+
+<<<<<<<< FINISH
+```
+
+[Código](./C/draft.c)

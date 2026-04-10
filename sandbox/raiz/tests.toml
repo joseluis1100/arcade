@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+25
+'''
+output = '''
+5.000000
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+0.000000
+'''
+
+[[tests]]
+input = '''
+-4
+'''
+output = '''
+Número -4.000000 é inválido
+'''
+
+[[tests]]
+input = '''
+2
+'''
+output = '''
+1.414214
+'''
+
+[[tests]]
+input = '''
+100
+'''
+output = '''
+10.000000
+'''

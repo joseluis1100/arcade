@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+5.0
+'''
+output = '''
+25.00
+'''
+
+[[tests]]
+input = '''
+0.0
+'''
+output = '''
+0.00
+'''
+
+[[tests]]
+input = '''
+3.5
+'''
+output = '''
+12.25
+'''
+
+[[tests]]
+input = '''
+10.0
+'''
+output = '''
+100.00
+'''
+
+[[tests]]
+input = '''
+1.0
+'''
+output = '''
+1.00
+'''

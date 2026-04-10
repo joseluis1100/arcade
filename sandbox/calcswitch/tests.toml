@@ -1,0 +1,43 @@
+[[tests]]
+input = '''
+1
+5 3
+'''
+output = '''
+8
+'''
+
+[[tests]]
+input = '''
+2
+10 4
+'''
+output = '''
+6
+'''
+
+[[tests]]
+input = '''
+3
+6 3
+'''
+output = '''
+18
+'''
+
+[[tests]]
+input = '''
+4
+8 2
+'''
+output = '''
+4
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+Erro: valor invalido.
+'''

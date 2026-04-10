@@ -1,0 +1,54 @@
+[[tests]]
+input = '''
+100.0
+'''
+output = '''
+Desconto: 90.00
+Parcela: 33.33
+Com. (A Vista): 4.50
+Com. (Prazo): 5.00
+'''
+
+[[tests]]
+input = '''
+200.0
+'''
+output = '''
+Desconto: 180.00
+Parcela: 66.67
+Com. (A Vista): 9.00
+Com. (Prazo): 10.00
+'''
+
+[[tests]]
+input = '''
+1000.0
+'''
+output = '''
+Desconto: 900.00
+Parcela: 333.33
+Com. (A Vista): 45.00
+Com. (Prazo): 50.00
+'''
+
+[[tests]]
+input = '''
+0.0
+'''
+output = '''
+Desconto: 0.00
+Parcela: 0.00
+Com. (A Vista): 0.00
+Com. (Prazo): 0.00
+'''
+
+[[tests]]
+input = '''
+500.0
+'''
+output = '''
+Desconto: 450.00
+Parcela: 166.67
+Com. (A Vista): 22.50
+Com. (Prazo): 25.00
+'''

@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+10
+'''
+output = '''
+276.00
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+0.00
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+138.00
+'''
+
+[[tests]]
+input = '''
+1
+'''
+output = '''
+27.60
+'''
+
+[[tests]]
+input = '''
+100
+'''
+output = '''
+2760.00
+'''
